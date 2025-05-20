@@ -1,1 +1,1 @@
-This is a simple project about food recipes
+This is a simple project on food recipes
