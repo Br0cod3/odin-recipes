@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+}
+
+h1, h2, h3, p {
+    color: white;
+}
+
+ul {
+    color: white;
+    margin: 0px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    display: block;
+    width: fit-content;
+    margin: 0px auto;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+h2, h3 {
+    text-align: center;
+}
